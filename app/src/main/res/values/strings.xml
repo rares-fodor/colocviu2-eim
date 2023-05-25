@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Colocviu2_2023</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">port</string>
+    <string name="connect_button">connect</string>
+    <string name="client">CLIENT</string>
+    <string name="Address">Address</string>
+    <string name="Port">Port</string>
+    <string name="City">City</string>
+    <string name="get_weather_forecast">Get Weather Forecast</string>
+    <string-array name="info_type">
+        <item>temperature</item>
+        <item>wind_speed</item>
+        <item>humidity</item>
+        <item>all</item>
+    </string-array>
+</resources>
